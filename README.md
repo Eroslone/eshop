@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 环境要求
 
 必须导入数据库 base9dcat.sql，包含后台菜单和省市区数据库
@@ -181,3 +182,7 @@ This is a 100% open source project. We do not receive any funding from the indus
 [![JetBrains](https://avatars0.githubusercontent.com/u/878437?s=200&v=4)](https://www.jetbrains.com/)
 
 Thanks to [JetBrains](https://www.jetbrains.com/) for supporting the project through sponsoring some [All Products Packs](https://www.jetbrains.com/products.html) within their [Free Open Source License](https://www.jetbrains.com/buy/opensource/) program.
+=======
+# eshop
+山海云商城
+>>>>>>> d9ab1a3b3b0b3595ebe063806f1c0141818b2def
